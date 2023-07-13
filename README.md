@@ -1,2 +1,2 @@
 # Home Amazon Prime
- Cçone Amazon Prime
+ Clone Amazon Prime
